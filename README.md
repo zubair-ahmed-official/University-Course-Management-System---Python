@@ -1,4 +1,4 @@
-#University Course Management System
+# University Course Management System
 Design Overview: The program contains classes and functions for conducting university activities such as adding students, instructors, courses, attendance monitoring, and grading. The primary elements are:
 
 Dataclasses: Student, Course, and Instructor represent the core entities with relevant attributes.
